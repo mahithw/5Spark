@@ -1,13 +1,17 @@
-# Daily Tasks Dashboard
+<<<<<<< HEAD
+# 5Spark - Daily Tasks Dashboard
+
+## About
+This project is part of the Arizona AI Spark Challenge - Hackathon Project. It's a Daily Tasks Dashboard built with React to help users manage their daily tasks efficiently.
 
 ## Overview
-The Daily Tasks Dashboard is a React application designed to help users manage their daily tasks efficiently. It provides a user-friendly interface to add, view, and organize tasks.
+The Daily Tasks Dashboard provides a user-friendly interface to add, view, and organize tasks.
 
 ## Features
-- **Task Management**: Add, edit, and delete tasks.
-- **Dashboard View**: A dedicated page to view all tasks at a glance.
-- **Custom Hooks**: Utilizes custom hooks for managing task-related logic.
-- **Responsive Design**: Ensures a seamless experience across devices.
+- **Task Management**: Add, edit, and delete tasks
+- **Dashboard View**: A dedicated page to view all tasks at a glance
+- **Custom Hooks**: Utilizes custom hooks for managing task-related logic
+- **Responsive Design**: Ensures a seamless experience across devices
 
 ## Getting Started
 
@@ -18,11 +22,11 @@ The Daily Tasks Dashboard is a React application designed to help users manage t
 ### Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/mahithw/5Spark.git
    ```
 2. Navigate to the project directory:
    ```
-   cd daily-tasks-dashboard
+   cd 5Spark
    ```
 3. Install the dependencies:
    ```
@@ -64,3 +68,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License.
+=======
+# 5Spark
+Arizona AI Spark Challenge - Hackathon Project
+>>>>>>> 3bec704182f122114bc0fc8f802e42098ac02fd9
